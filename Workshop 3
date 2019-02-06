@@ -1,12 +1,21 @@
 What is the location framework called in iOS
+locationManger
+
+
+
 
 What are the two numbers that determine location
+Latitude and Longitude 
 
 There are two keys you need to add to the info.plist in order to use gps of a device, what are they?
+privacy- location when usage descdription 
+privact - location always and when usage description
 
 Can you explain the role of the CLLocationManager delegate that we looked at?
+anytime theres a change of location it tells the view controller 
 
 How can you simulate location on the simulator?
+press location on the debug area 
 
 How do you create a custom simulator for testing?
 
